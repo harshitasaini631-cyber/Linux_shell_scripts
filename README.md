@@ -33,7 +33,7 @@ Execute it using:
 ./system_setup.sh
 
 
-##Script description
+## Script description
 
 This project includes three main shell scripts that demonstrate different areas of Linux functionality.
 
@@ -45,6 +45,6 @@ The Automation Script simplifies repetitive tasks such as downloading files or u
 
 Together, these scripts show how Linux can be used practically to manage, secure, and automate a system.
 
-##Learning Outcomes
+## Learning Outcomes
 
 By completing this project, you’ll gain practical knowledge of Linux commands, scripting, and automation. You’ll learn how to manage files, users, and system resources while automating common administrative tasks.
